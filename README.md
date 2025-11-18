@@ -8,5 +8,5 @@ You can manage tasks by creating, updating, and deleting them.
 Clone the project, go to the project folder, install dependencies, and set up environment variables by creating a `.env` file in the project root with your settings, for example: 
  
 ```bash 
-git clone <https://github.com/Mohamed12511/Task-manager.git>  
+git clone https://github.com/Mohamed12511/Task-manager.git> 
 npm install 
